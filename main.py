@@ -2,6 +2,7 @@ from flask import Flask
 import random
 
 from flask.helpers import flash
+import random
 
 app = Flask(__name__)
 
